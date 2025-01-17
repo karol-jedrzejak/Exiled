@@ -1,6 +1,6 @@
 # Exiled Website
  
-<img src="https://karol-jedrzejak.github.io/static/media/1.e8f76c42e2835aaa0666.jpg" height="400">
+<img src="https://github.com/karol-jedrzejak/karol-jedrzejak.github.io/blob/master/src/assets/projects/1.jpg" height="400">
 
 ## About Project
 
